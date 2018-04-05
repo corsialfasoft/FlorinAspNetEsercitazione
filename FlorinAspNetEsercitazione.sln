@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlorinAspNetEsercitazione", "FlorinAspNetEsercitazione\FlorinAspNetEsercitazione.csproj", "{56A764B7-E5B8-4A4C-9400-48E142251631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlorinAspNetEsercitazione.Tests", "FlorinAspNetEsercitazione.Tests\FlorinAspNetEsercitazione.Tests.csproj", "{2EF080B9-9087-48D5-B19D-F5D2F5CFE88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A764B7-E5B8-4A4C-9400-48E142251631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A764B7-E5B8-4A4C-9400-48E142251631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A764B7-E5B8-4A4C-9400-48E142251631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A764B7-E5B8-4A4C-9400-48E142251631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF080B9-9087-48D5-B19D-F5D2F5CFE88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF080B9-9087-48D5-B19D-F5D2F5CFE88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF080B9-9087-48D5-B19D-F5D2F5CFE88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF080B9-9087-48D5-B19D-F5D2F5CFE88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC2CF49-3068-4BCC-81DD-A9F82B7570D7}
+	EndGlobalSection
+EndGlobal
